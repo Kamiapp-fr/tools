@@ -20,7 +20,7 @@ This repository contain a set of tools which is used daily by the kami team.
 ### [Notion](https://www.notion.so/)
 *A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.*
 
-We use notion for store your documentation, wiki and technical details about our apps. There also a getting started for new collaborator
+> We use notion for store your documentation, wiki and technical details about our apps. There also a getting started for new collaborator.
 
 # 
 ### [Slack](https://slack.com/)
@@ -40,9 +40,13 @@ We use notion for store your documentation, wiki and technical details about our
 ### [Visual Studio Code](https://code.visualstudio.com/)
 *VS Code is my most used and favorite editor. I love being able to customize the editor - changing the layout, the icons, fonts and color scheme is so easy!*
 
+> You can use the [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) extension to use our [configuration](https://gist.github.com/EmilienLeroy/bbdb4f6feb5dd073af35f2424ddb82b6).
+
 # 
 ### [Gitmoji](https://gitmoji.carloscuesta.me/)
 *Gitmoji is an emoji guide for your commit messages. Aims to be a standarization cheatshee /t for using emojis on GitHub's commit messages.*
+
+> At Kami we use the [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli). This is realy helpfull to name our commits.
 
 # 
 ### [Postman](https://www.postman.com/)
@@ -51,6 +55,7 @@ We use notion for store your documentation, wiki and technical details about our
 # 
 ### [Robo 3t](https://robomongo.org/)
 *Robo 3T (formerly Robomongo) is the free, lightweight, open-source MongoDB GUI with an embedded mongo shell, real auto-completion.*
+
 # 
 ### [Hyper](https://hyper.is/)
 *A terminal built on web technologies*
@@ -67,6 +72,7 @@ We use notion for store your documentation, wiki and technical details about our
 ### [Github Pages](https://pages.github.com/)
 *GitHub Pages are public webpages hosted and easily published through GitHub.*
 
+> Our own [website](https://kamiapp.fr/) is store on github pages ! 
 
 
 ## Design
