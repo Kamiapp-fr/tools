@@ -84,6 +84,10 @@ This repository contain a set of tools which is used daily by the kami team.
 ### [ColorSpace](https://mycolor.space/)
 *Generate nice color palettes, color gradients and much more!*
 
+# 
+### [Material Design Icons](https://material.io/resources/icons/?style=baseline)
+*Material icons are delightful, beautifully crafted symbols for common actions and items. Download on desktop to use them in your digital products*
+
 
 
 ## Video 
